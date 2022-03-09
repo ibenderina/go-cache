@@ -2,14 +2,14 @@
 
 Simple in-memory cache
 
-##Getting Cache
+## Getting Cache
 
 `go get github.com/ibenderina/go-cache`
 
-##Import 
+## Import 
 `import github.com/ibenderina/go-cache`
 
-##Usage
+## Usage
 ```
 func main() {
 	cache := cache.New()
